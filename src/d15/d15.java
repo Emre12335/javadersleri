@@ -45,7 +45,7 @@ public class d15 {
         /* IsEmpty Clear ve clone */
         /* clone listeyi direk kopyalamaya yarıyor*/
         ArrayList<Integer> l2 = (ArrayList<Integer>) l1.clone();
-        /* Uyarı alıyor neden aldığını bilmiyorum ama çalışıyor */
+        /* Uyarı alıyor neden aldığını bilmiyorum ama çalışıyor *"/
 
         /* Boş olup olmadığını kontrol eder */
         System.out.println(l1.isEmpty());
